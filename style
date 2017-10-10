@@ -6,5 +6,5 @@ indent_width = 4
 coalesce_brackets = True
 allow_multiline_lambdas = True
 join_multiple_lines = True
-spaces_around_power_operator = True
+spaces_around_power_operator = False
 column_limit = 100
